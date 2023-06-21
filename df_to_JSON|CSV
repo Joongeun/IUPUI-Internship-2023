@@ -1,0 +1,11 @@
+import json
+import csv
+
+
+# Dataframe to JSON
+df = df.to_json(default_handler=str)
+with open('posts.json', 'w') as file:
+    json.dump(df, file)
+    
+# Dataframe to CSV
+df.to_csv('file1.csv')
