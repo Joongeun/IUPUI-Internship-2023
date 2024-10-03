@@ -1,4 +1,4 @@
-#IUPUI Internship (2023) 
+IUPUI Internship (2023) 
 
 Topic and Sentiment Analysis of Reddit’s Vaping-Cessation Community: https://ieeexplore.ieee.org/document/10385341
 
